@@ -3,6 +3,7 @@
         <h2>Content component</h2>
         <p>{{ property }}</p>
     </div>
+
 </template>
 
 <script>
